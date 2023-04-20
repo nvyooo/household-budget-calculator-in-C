@@ -1,0 +1,30 @@
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.csproj.AssemblyReference.cache
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.AssemblyInfoInputs.cache
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.AssemblyInfo.cs
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.csproj.CoreCompileInputs.cache
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.exe
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.deps.json
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.runtimeconfig.json
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.dll
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.pdb
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.dll
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\refint\jsadhfkjsdafk.dll
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.pdb
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.genruntimeconfig.cache
+D:\Backup\studia\5 semestr\Aplikacje internetowe projekt\kółkokrzyzyk\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\ref\jsadhfkjsdafk.dll
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.exe
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.deps.json
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.runtimeconfig.json
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.dll
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\bin\Debug\net6.0\jsadhfkjsdafk.pdb
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.csproj.AssemblyReference.cache
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.AssemblyInfoInputs.cache
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.AssemblyInfo.cs
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.csproj.CoreCompileInputs.cache
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.dll
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\refint\jsadhfkjsdafk.dll
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.pdb
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\jsadhfkjsdafk.genruntimeconfig.cache
+C:\Users\theal\Desktop\budzert\jsadhfkjsdafk\jsadhfkjsdafk\obj\Debug\net6.0\ref\jsadhfkjsdafk.dll
